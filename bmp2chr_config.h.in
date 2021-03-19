@@ -1,0 +1,2 @@
+#define bmp2chr_VERSION_MAJOR @bmp2chr_VERSION_MAJOR@
+#define bmp2chr_VERSION_MINOR @bmp2chr_VERSION_MINOR@

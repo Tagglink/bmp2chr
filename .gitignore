@@ -1,0 +1,6 @@
+build*
+img/*
+!img/Mona_Lisa_vectorized.svg
+!img/Mona_Lisa_vectorized.png
+!img/Fishermen_with_his_son_on_Pier_Juan_Griego.jpg
+!img/Heliconius_charithonia_2021.jpg
